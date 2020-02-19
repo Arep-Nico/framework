@@ -22,10 +22,10 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-    <groupId>org.reflections</groupId>
-      <artifactId>reflections</artifactId>
-      <version>0.9.12</version>
-  </dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>42.2.10</version>
+    </dependency>
   </dependencies>
 
   <build>
