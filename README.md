@@ -21,6 +21,14 @@ End Points
 - /getDB
 - /api/\<server path>/\<methot path>
 
+## Demo
+````
+ - https://enigmatic-reaches-45197.herokuapp.com/index.html
+ - https://enigmatic-reaches-45197.herokuapp.com/getDB
+ - https://enigmatic-reaches-45197.herokuapp.com/api/hello/greeting
+
+````
+
 ## Running
  Para empaquetar el proyecto de Java 
  > mvn package
